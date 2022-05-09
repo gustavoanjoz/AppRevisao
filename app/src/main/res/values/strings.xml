@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">AppRevisao</string>
-    <string name="lbldigite">Digite os valores:</string>
-    <string name="lbltestar">TESTAR</string>
+    <string name="title">Digite os valores:</string>
+    <string name="send">Enviar</string>
 </resources>
